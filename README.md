@@ -3,7 +3,8 @@ Tech Blog
   
 
 ## Description
-A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
+![description mvc](https://user-images.githubusercontent.com/100335717/184428709-6878075c-9ac1-445e-abac-e4c4f05361a6.png)
+
 
 
 ## Table of Contents
@@ -17,7 +18,7 @@ First clone this repository into your local repository, then make sure that you 
 In the command line run `mysql -u <YOUR MYSQL USERNAME> -p`, then enter your password. After you've successfully logged in, run `source db/schema.sql` then `quit;`. After you'll need to seed the data so in the command line run `node seeds`. After this you can run `node server.js` and head to the local host port in the browser or head to an API design platform like Insomnia and test the CRUD operations in different routes.
 
 ## Documentation
-Live Deployed app: <a href='https://agile-earth-64002.herokuapp.com'>View Application</a>
+Live Deployed app: [<a href='https://agile-earth-64002.herokuapp.com'>View Application</a>](https://frozen-spire-06364.herokuapp.com/)
 
 
 ![tech_blog](https://user-images.githubusercontent.com/100335717/184427807-52a2de13-9e8e-4f10-9948-c756c3f147c6.png)
