@@ -1,15 +1,15 @@
 
-<h1 align="center">Tech Blog 👋</h1>
+Tech Blog
   
-![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 
 ## Description
 A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.
+
+
 ## Table of Contents
 - [Description](#description)
 - [Usage](#usage)
 - [Documentation](#Documentation)
-- [License](#license)
 - [Contributing](#contributing)
 
 ## Usage
@@ -23,13 +23,6 @@ Live Deployed app: <a href='https://agile-earth-64002.herokuapp.com'>View Applic
 ![tech_blog](https://user-images.githubusercontent.com/100335717/184427807-52a2de13-9e8e-4f10-9948-c756c3f147c6.png)
 
 
-
-## License
-![badge](https://img.shields.io/badge/license-Open-brightgreen)
-<br />
-This application is covered by the Open license.
-<br />
-Link to the <a href='https://www.google.com/search?q=Open+license'>Open license</a>
 
 ## Contributing
 Tony Jones
