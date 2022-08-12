@@ -3,7 +3,8 @@ Tech Blog
   
 
 ## Description
-![description mvc](https://user-images.githubusercontent.com/100335717/184428709-6878075c-9ac1-445e-abac-e4c4f05361a6.png)
+![usage tblog](https://user-images.githubusercontent.com/100335717/184429052-671c0a4c-9e1f-4eff-ba50-e5f7942483e7.png)
+
 
 
 
@@ -14,8 +15,8 @@ Tech Blog
 - [Contributing](#contributing)
 
 ## Usage
-First clone this repository into your local repository, then make sure that you have a mysql account, here's a <a href='https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide'>link</a> to help you set up mysql if needed. After make sure you're in the root of the repository, then open the command line and run `npm i`. After that in the root of the directory create a file named `.env` and in that file write 3 lines: `DB_NAME='tech_blog_db'`, `DB_USER ='<YOUR MYSQL USERNAME>'`, and `DB_PW ='<YOUR MYSQL PASSWORD>'`.
-In the command line run `mysql -u <YOUR MYSQL USERNAME> -p`, then enter your password. After you've successfully logged in, run `source db/schema.sql` then `quit;`. After you'll need to seed the data so in the command line run `node seeds`. After this you can run `node server.js` and head to the local host port in the browser or head to an API design platform like Insomnia and test the CRUD operations in different routes.
+![description mvc](https://user-images.githubusercontent.com/100335717/184429092-962c1620-03f2-4903-a279-e0a291b43fad.png)
+
 
 ## Documentation
 Live Deployed app: [<a href='https://agile-earth-64002.herokuapp.com'>View Application</a>](https://frozen-spire-06364.herokuapp.com/)
