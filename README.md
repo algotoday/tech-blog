@@ -18,7 +18,10 @@ In the command line run `mysql -u <YOUR MYSQL USERNAME> -p`, then enter your pas
 
 ## Documentation
 Live Deployed app: <a href='https://agile-earth-64002.herokuapp.com'>View Application</a>
-![Screenshot (39)](https://user-images.githubusercontent.com/100015338/173255282-88e184dd-3fb0-4f1c-8a26-1cd380941a6c.png)
+
+Screenshot
+![tech_blog](https://user-images.githubusercontent.com/100335717/184427807-52a2de13-9e8e-4f10-9948-c756c3f147c6.png)
+
 
 
 ## License
